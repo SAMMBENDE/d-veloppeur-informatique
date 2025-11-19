@@ -54,9 +54,11 @@ body {
 }
 
 .resume_wrapper .resume_left .resume_image img {
-  width: 100%;
+  width: 80%;
   border-color: #26252d;
   display: block;
+  margin: 10px auto;
+  border-radius: 20%;
 }
 
 .resume_wrapper .resume_title {
