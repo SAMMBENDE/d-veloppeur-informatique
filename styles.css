@@ -98,6 +98,7 @@ body {
 
 .resume_info .skills_list .skills_left {
   word-spacing: 5px;
+  white-space: nowrap;
 }
 
 .resume_wrapper .resume_item:last-child {
